@@ -1,8 +1,7 @@
 ![logo](https://github.com/sankalp-2607/sankalp-2607/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
 <h1 align="center">Hi 👋, I'm Sankalp Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/sankalp-2607/sankalp-2607/blob/main/123.gif
-">
+<img align="right" alt="coding" width="400" src="https://github.com/sankalp-2607/sankalp-2607/blob/main/123.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalp-2607&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp-2607" /> </p>
 
 - 🌱 I’m currently learning **Python and web dev**

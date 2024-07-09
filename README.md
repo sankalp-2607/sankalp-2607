@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python and web dev**
 
-- ⚡ Fun fact **I am the shadowy figure in the kitchen at 3 AM, hunting for snacks.**
+- ⚡ Fun fact - **I am the shadowy figure in the kitchen at 3 AM, hunting for snacks.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

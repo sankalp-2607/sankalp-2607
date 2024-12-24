@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/sankalp-2607/sankalp-2607/blob/main/123.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalp-2607&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp-2607" /> </p>
 
-- 🌱 I’m currently learning **Python and web dev**
+- 🌱 I’m currently learning **C++ and web dev**
 
 - ⚡ Fun fact - **I am the shadowy figure in the kitchen at 3 AM, hunting for snacks.**
 

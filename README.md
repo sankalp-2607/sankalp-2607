@@ -1,4 +1,4 @@
-![logo](https://github.com/sankalp-2607/sankalp-2607/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
+![logo]([https://github.com/sankalp-2607/sankalp-2607/blob/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif](https://i.pinimg.com/originals/aa/a9/2d/aaa92dfb8b4f18822505574280da331c.gif))
 <h1 align="center">Hi 👋, I'm Sankalp Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/sankalp-2607/sankalp-2607/blob/main/123.gif">

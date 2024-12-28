@@ -1,4 +1,4 @@
-![logo]([[C:\Users\Sankalp\Desktop\ii\sankalp-2607\download.gif](https://github.com/sankalp-2607/sankalp-2607/blob/main/download.gif)](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif))
+![logo]((https://i.pinimg.com/736x/54/c8/4d/54c84db12072c83995b94c23c469ed0e.jpg))
 
 <h1 align="center">Hi 👋, I'm Sankalp Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

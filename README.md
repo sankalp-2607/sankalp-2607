@@ -1,4 +1,4 @@
-![Alt Text](https://"C:\Users\Sankalp\Downloads\download.gif")
+![Alt Text](C:\Users\Sankalp\Desktop\ii\sankalp-2607\download.gif)
 
 <h1 align="center">Hi 👋, I'm Sankalp Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

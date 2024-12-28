@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" alt="logo" width="1000" height="550">
 
 
-<h1 align="center">Hi 👋, I'm Sankalp Sharma</h1>
+<h1 align="center">Hi! , I'm Sankalp Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/sankalp-2607/sankalp-2607/blob/main/123.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sankalp-2607&label=Profile%20views&color=0e75b6&style=flat" alt="sankalp-2607" /> </p>

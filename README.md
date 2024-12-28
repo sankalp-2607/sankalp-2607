@@ -1,4 +1,4 @@
-<img align="center" alt="car" src="C:\Users\Sankalp\Desktop\ii\sankalp-2607\download.gif">
+![logo](C:\Users\Sankalp\Desktop\ii\sankalp-2607\download.gif)
 
 <h1 align="center">Hi 👋, I'm Sankalp Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

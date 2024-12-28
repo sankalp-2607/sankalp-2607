@@ -1,4 +1,6 @@
-![logo]((https://i.pinimg.com/736x/54/c8/4d/54c84db12072c83995b94c23c469ed0e.jpg))
+
+<img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" alt="logo" width="1000" height="550">
+
 
 <h1 align="center">Hi 👋, I'm Sankalp Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

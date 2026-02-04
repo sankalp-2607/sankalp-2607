@@ -22,7 +22,6 @@
 ## 🎯 Current Focus
 - Building **clean & responsive UIs**
 - Strengthening **C++ fundamentals & DSA**
-- Writing better **Git commit history**
 - Improving consistency (small wins every day)
 
 ---

@@ -13,16 +13,16 @@
 <img align="right" alt="coding" width="360" src="https://github.com/sankalp-2607/sankalp-2607/blob/main/123.gif">
 
 ## 🚀 About Me
-- 🌱 Currently learning **C++ & Web Development**
-- 💻 Interested in **Frontend, Systems & Core CS**
-- 🧠 Curious about *how things work under the hood*
+- 💡 I turn ideas into **working systems**
+- ⚙️ Building real-world applications with **.NET**
+- 🔍 Exploring **systems, frontend, and what happens under the hood**
 
 ---
 
 ## 🎯 Current Focus
-- Building **clean & responsive UIs**
-- Strengthening **C++ fundamentals & DSA**
-- Improving consistency (small wins every day)
+- ⚙️ Building backend systems with **.NET**
+- 🧠 Practicing **DSA (C++)**
+- 📈 Consistency — small wins every day
 
 ---
 
